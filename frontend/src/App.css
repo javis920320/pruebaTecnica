@@ -1,0 +1,42 @@
+
+:root{
+  --col-primary:#0F4C81;
+  --col-secundary:#707070;
+  
+}
+.primary{
+  color: var(--col-primary);
+    font-weight: bold;
+ }
+ .secondary{
+  color: var(--col-secundary);
+ }
+main{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+table{
+  border-radius: 1rem;
+  box-shadow: 0px 9px 14px -3px rgba(204, 203, 203, 0.75);
+  width:1376px;
+
+}
+
+thead{
+border-radius: 4px 4px;
+background-color:#0F4C81 ;
+padding: 24px;
+width:1376px;
+height: 67px;
+color: white;
+
+}
+tr{
+  color: #707070;
+  height: 86px;
+  text-align: center;
+}
+
+

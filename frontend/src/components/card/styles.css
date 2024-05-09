@@ -1,0 +1,49 @@
+.card {
+  background-color: white;
+  min-width: 464px;
+  border-radius: 8px;
+  min-height: 592px;
+  padding: 24px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+}
+.form-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.btn-success {
+  position: absolute;
+  bottom: 0;
+  right: 8px;
+  height: 39px;
+  width: 100px;
+  color: #a5d37d;
+  border-radius: 8px;
+  padding-top: 5px;
+  &:hover {
+    background-color: #cedac4;
+    
+  }
+  
+}
+
+.footer_card{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer_card>div{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}

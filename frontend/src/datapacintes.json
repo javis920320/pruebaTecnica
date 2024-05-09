@@ -1,0 +1,138 @@
+{
+    "medicos":[
+       
+    {
+        "idMedico": 1,
+        "nombre": "Ana Maria Rodriguez",
+        "cargo": "Medico General"
+    },
+    {
+        "idMedico": 2,
+        "nombre": "Juan Carlos López",
+        "cargo": "Cardiólogo"
+    },
+    {
+        "idMedico": 3,
+        "nombre": "María Fernández Pérez",
+        "cargo": "Pediatra"
+    },
+    {
+        "idMedico": 4,
+        "nombre": "Carlos Ruiz García",
+        "cargo": "Dentista"
+    },
+    {
+        "idMedico": 5,
+        "nombre": "Luisa Martínez",
+        "cargo": "Psicóloga"
+    },
+    {
+        "idMedico": 6,
+        "nombre": "Pedro González",
+        "cargo": "Cirujano"
+    }
+    ],
+    "pacientes":[
+        {
+            "idPaciente": "1",
+            "namePaciente": "Juan Pérez",
+            "identificacion": "12345",
+            "celular": "1234567890",
+            "entidadSalud": "EPS SaludTotal",
+            "fechaAtencion": "01/02/2023",
+            "tipoAtencion": "Consulta General",
+            "estado": "Atendido"
+          },
+          {
+            "idPaciente": "2",
+            "namePaciente": "María González",
+            "identificacion": "54321",
+            "celular": "0987654321",
+            "entidadSalud": "EPS Coomeva",
+            "fechaAtencion": "15/03/2023",
+            "tipoAtencion": "Consulta Odontológica",
+            "estado": "En espera"
+          },
+          {
+            "idPaciente": "3",
+            "namePaciente": "Pedro Ramírez",
+            "identificacion": "67890",
+            "celular": "4567890123",
+            "entidadSalud": "EPS Sanitas",
+            "fechaAtencion": "10/04/2023",
+            "tipoAtencion": "Consulta Pediátrica",
+            "estado": "Atendido"
+          },
+          {
+            "idPaciente": "4",
+            "namePaciente": "Laura Martínez",
+            "identificacion": "09876",
+            "celular": "3210987654",
+            "entidadSalud": "EPS Famisanar",
+            "fechaAtencion": "20/05/2023",
+            "tipoAtencion": "Consulta Ginecológica",
+            "estado": "En espera"
+          },
+          {
+            "idPaciente": "5",
+            "namePaciente": "José López",
+            "identificacion": "54321",
+            "celular": "9876543210",
+            "entidadSalud": "EPS Compensar",
+            "fechaAtencion": "05/06/2023",
+            "tipoAtencion": "Consulta Oftalmológica",
+            "estado": "Atendido"
+          },
+          {
+            "idPaciente": "6",
+            "namePaciente": "Ana Silva",
+            "identificacion": "67890",
+            "celular": "1234567890",
+            "entidadSalud": "EPS SaludTotal",
+            "fechaAtencion": "12/07/2023",
+            "tipoAtencion": "Consulta Dermatológica",
+            "estado": "En espera"
+          },
+          {
+            "idPaciente": "7",
+            "namePaciente": "Carlos Gómez",
+            "identificacion": "12345",
+            "celular": "0987654321",
+            "entidadSalud": "EPS Coomeva",
+            "fechaAtencion": "25/08/2023",
+            "tipoAtencion": "Consulta Nutricional",
+            "estado": "Atendido"
+          },
+          {
+            "idPaciente": "8",
+            "namePaciente": "Marina Hernández",
+            "identificacion": "09876",
+            "celular": "4567890123",
+            "entidadSalud": "EPS Sanitas",
+            "fechaAtencion": "03/09/2023",
+            "tipoAtencion": "Consulta Cardiológica",
+            "estado": "En espera"
+          },
+          {
+            "idPaciente": "9",
+            "namePaciente": "Juanita Díaz",
+            "identificacion": "54321",
+            "celular": "9876543210",
+            "entidadSalud": "EPS Famisanar",
+            "fechaAtencion": "14/10/2023",
+            "tipoAtencion": "Consulta Endocrinológica",
+            "estado": "Atendido"
+          },
+          {
+            "idPaciente": "10",
+            "namePaciente": "Roberto angulo",
+            "identificacion": "67890",
+            "celular": "1234567890",
+            "entidadSalud": "EPS Compensar",
+            "fechaAtencion": "30/11/2023",
+            "tipoAtencion": "Consulta Psicológica",
+            "estado": "En espera"
+          }
+        
+    ]
+}

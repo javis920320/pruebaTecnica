@@ -1,0 +1,17 @@
+.campoNombre{
+    color:#6BA539;
+    text-decoration-line: underline;
+    
+}
+tbody tr:nth-child(odd) {
+    background-color: #fcfbfb; /* Color de fondo para filas impares */
+  }
+th{
+    color: white;
+    
+}
+td{
+    text-align: center;
+    width: 139px;
+    
+}
